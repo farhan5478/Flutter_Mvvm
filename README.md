@@ -1,16 +1,11 @@
-# todo_mvvm
+# 📱 Simple Todo App - MVVM Architecture
 
-For practise
+A beginner-friendly Android todo application demonstrating **MVVM (Model-View-ViewModel)** architecture pattern. This project is designed for developers who want to understand MVVM fundamentals without the complexity of Clean Architecture layers.
 
-## Getting Started
+## 🏗️ Architecture Overview
+- **Simple MVVM Pattern** - Easy to understand and implement
+- **Single Service Layer** - Handles data operations from database and network
+- **No Clean Architecture** - Focuses purely on MVVM concepts
+- **Beginner-Friendly** - Clear code structure
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Perfect for junior developers learning modern Android development patterns.
